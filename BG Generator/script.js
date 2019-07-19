@@ -13,4 +13,4 @@ function changeColor() {
 color1.addEventListener('change', changeColor);
 
 color2.addEventListener('change', changeColor);
-console.logo("THIS iS COOL");
+console.logo('THIS iS COOL');
